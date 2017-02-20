@@ -1,0 +1,279 @@
+*{
+	margin:0;
+	padding:0;	
+}
+body{
+	font-family:Georgia, "Times New Roman", Times, serif;
+	background-image:url(../images/background-images-6172-6519-hd-wallpapers.jpg);
+	min-height:1000px;
+	
+}
+.clr{
+	clear:both;
+}
+#wrapper{
+	min-height:700px;
+	width:960px;
+	margin:auto;
+	
+}
+header{
+	background-image:url(../images/ImageResizer.net%20-%20qtruabol05ou9g2.png);
+	height:45px;
+	width:100%;
+	margin:auto;
+	position:fixed;
+}
+#login{
+	float:right;
+	line-height:45px;
+	margin:0 80px;
+	color:#3DBB33;
+}
+#login a{
+	color:#A9BD13;
+	text-decoration:none;
+}
+#login a:hover{
+	color:#27B72A;
+	text-decoration:underline;
+}
+#menu{
+	line-height:45px;;
+	text-align:center;
+	height:45px;
+	width:651px;
+	margin:auto;
+}
+#menu li{
+	width:129px;
+	float:left;
+	display:inline;
+	border-right:1px solid #999;
+	color:#CCC;
+	font-weight:bold;
+}
+#menu li:hover{
+	background:#C90;
+	color:#9F0;
+}
+#content{
+	min-height:780px;
+	background:#B5C1B8;
+	margin-top:10px;
+	border: 5px groove #C1C131;
+}
+
+#slide{
+	height:350px;
+	background-image:url(../images/ImageResizer.net%20-%203zwxjd1nlktbi1u.jpg);
+	border:5px groove #EBDE31;
+	width:950px;
+	padding-top:45px;
+}
+h1{
+	line-height:350px;
+	text-align:center;
+	color:#C32478;
+	font-size:30px;
+}
+.form1
+{
+	padding-top:50px;
+}
+#gt{
+}
+img{
+	float:left;
+	border:5px groove #5B7213;
+	margin:0 10px 0 7px; 
+}
+span{
+	margin-left:10px;
+	width:
+}
+h3{
+	color:#E05B1F;
+	text-align:center;
+	margin:0 0 25px 0;
+	padding-top:20px;
+	font-size:24px;
+	font-weight:bold;
+	border-bottom:5px dotted #46AF2C;
+	text-transform:uppercase;
+}
+footer{
+	height:220px;
+	background-image:url(../images/footer.jpg);
+	margin:7px auto;
+	width:1280px;
+}
+#thongtin{
+	margin:20px 0 0 10px;
+	float:left;
+}
+#lienhe{
+	float:right;
+	margin:150px 10px 10px 0;
+}
+span{
+	color:#EB0004;
+	font-weight:bold;
+}
+p{
+	color:#05D503;
+	font-size:18px;
+}
+#cacmon li{
+	float:left;
+	display:inline;
+	width:750px;
+	height:200px;
+	background:#D7CDCD;
+	border:2px solid #928585;
+	margin:10px 100px auto; 
+}
+#truyenthong{
+	font-size:24px;
+	color:#F48F1F;
+	font-weight:bold;
+	text-align:center;
+	margin-top:10px;
+	border-bottom:5px dotted #E8251F;
+}
+.title p{
+	width:470px;
+	float:right;
+	margin:0 3px 0 7px;
+	color:#3B3838;
+}
+.ttt{
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+	color:#E42D21;
+}
+.ct{
+	margin:7px 0 0 7px;
+	font-size:14px;
+	float:left;
+}
+.ct a{
+	text-decoration:none;
+	color:#68D126;
+}
+.ct a:hover{
+	text-decoration:underline;
+}
+#ten{
+	text-transform:uppercase;
+	text-align:center;
+	color:#E7821E;
+	font-size:24px;
+	font-weight:bold;
+	margin-top:10px;
+	border-bottom:5px dotted #D41619;
+}
+#dd{
+	text-align:center;
+	color:#C7235B;
+	
+}
+#dd span{
+	color:#1F4B14;
+}
+#chitietmon{
+	margin:30px auto;
+	width:910px;
+}
+#diachi{
+	width:400px;
+	float:left;
+	background:#329C7F;
+	min-height:300px;
+}
+#gui{
+	float:left;
+	margin:0 0 0 10px;
+	width:511px;
+	background:#62B8B1;
+	height:300px;
+}
+#gui h4{
+	background:#D18019;
+	line-height:40px;
+	text-align:center;
+	color:#FBFBFB;
+	font-size:18px;
+	margin-bottom:20px;
+}
+#gopy{
+	margin:auto;
+	width:926px;
+}
+#diachi h4{
+	background:#3265CB;
+	line-height:40px;
+	text-align:center;
+	color:#FBFBFB;
+	font-size:18px;
+	margin-bottom:20px;
+}
+#diachi p{
+	margin-left:10px;
+	color:#1C48A2;
+}
+#diachi span{
+	color:#232426;
+}
+#cacmon2 li{
+	float:left;
+	display:inline;
+	width:520px;
+	height:150px;
+	background:#D7CDCD;
+	border:2px solid #928585;
+	margin:10px 0 0 15px; 
+}
+.title2{
+	height:150px;
+}
+.title2 p{
+	color:#3B3838;
+	font-size:16px;
+}
+.ttt2{
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+	color:#E42D21;
+}
+#cacmon2{
+	border:3px groove #423D3D;
+	width:550px;
+	background:#D9D1D1;
+	min-height:690px;
+	margin:10px 0 0 10px;
+	float:left;
+}
+#right{
+	width:340px;
+	min-height:630px;
+	background:#E1DDDD;
+	float:right;
+	margin:10px 10px 0 0;
+	border:1px solid #000000;
+}
+#right li{
+	float:left;
+	display:inline;
+	width:320px;
+	height:100px;
+	background:#D7CDCD;
+	border:2px solid #928585;
+	margin:10px 0 0 8px; 
+}
+.ttt3{
+	font-weight:bold;
+	color:#661012;
+}
